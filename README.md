@@ -1,1 +1,29 @@
 # user-service
+
+- Step 1
+- [ ] develop branche
+- [ ] git flow
+- [ ] spring boot
+- [ ] spring mvc
+- [ ] java 15
+- [ ] swagger
+- Step 2
+- [ ] Junit
+- [ ] hibernate / jpa
+- [ ] mysql
+- Step 3
+- [ ] spring security
+- [ ] karate / cucumber
+- Step 4
+- [ ] migration mysql -> nosql
+- Step 5
+- [ ] spring security + oauth2
+- Step 6
+- [ ] eureka 
+- [ ] prometheus
+- Step 7
+- [ ] logstash
+- Step 8
+- [ ] docker file
+- Step 9
+- [ ] kubernetes
